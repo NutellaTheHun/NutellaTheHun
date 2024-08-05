@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## Hello and Welcome
+* I've been programming in C# for 2 years
+* I developed a WPF application for a small business
+* I adapted a Unity application to be playable in VR
+* Currently expanding my skill set towards backend development
+* Recently been learning Go and enjoying it so far!
 <!--
 **NutellaTheHun/NutellaTheHun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
