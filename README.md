@@ -2,8 +2,7 @@
 * ⚡ I've been programming in C# for 2+ years
 * 🏆 I developed a full stack order management application for a small business
 * 💥 I adapted a Unity application to be playable in VR
-* 🌟 Currently expanding my skill set towards backend development
-* 🐻 Recently been learning Go and enjoying it so far!
+* 🌟 Currently building an application using Nestjs
 <!--
 **NutellaTheHun/NutellaTheHun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
